@@ -1,17 +1,20 @@
-# task2_randomquotegenerator
 
-A new Flutter project.
+# Flashcard Quiz App
 
-## Getting Started
+## 🚀 Key Features
+* **Interactive Flashcards:** Each card features a question on the front and an answer on the back, revealed via a "Show Answer" button.
+* **Smooth Navigation:** Easily move between study cards using dedicated "Next" and "Previous" buttons.
+* **Full Customization:** Users have complete control to add new flashcards, edit existing content, or delete cards they no longer need.
+* **Clean UI:** Built with a simple and clean user interface to ensure a distraction-free study experience.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+*(Insert your technologies here, e.g., React, JavaScript, LocalStorage for data persistence, etc.)*
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 How to Run
+1. Clone this repository.
+2. Install dependencies (if applicable).
+3. Run the application locally to start studying!
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Contributing
+Contributions are welcome! Please feel free to open an issue or submit a pull request.
+>>>>>>> 637f61592ea810625bdd5ded5fa35ddab0712a80
