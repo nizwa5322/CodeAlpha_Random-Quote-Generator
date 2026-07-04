@@ -15,6 +15,3 @@
 2. Install dependencies (if applicable).
 3. Run the application locally to start studying!
 
-## 🤝 Contributing
-Contributions are welcome! Please feel free to open an issue or submit a pull request.
->>>>>>> 637f61592ea810625bdd5ded5fa35ddab0712a80
